@@ -1,0 +1,157 @@
+// Status(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, 
+	_json={
+			'created_at': 'Sun Dec 19 20: 28: 17 +0000 2021', 
+			'id': 1472665108174098433, 
+			'id_str': '1472665108174098433', 
+			'text': 'RT @izkia: Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar taxis, colectivo…', 
+			'source': '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', 
+			'truncated': False, 
+			'in_reply_to_status_id': None, 
+			'in_reply_to_status_id_str': None, 
+			'in_reply_to_user_id': None, 
+			'in_reply_to_user_id_str': None, 
+			'in_reply_to_screen_name': None, 
+			'user': {
+						'id': 190707904, 
+						'id_str': '190707904', 
+						'name': 'Susana Gutiérrez S.', 
+						'screen_name': 'Sanandrea2010', 
+						'location': 'CHILE', 
+						'url': None, 
+						'description': 'Hija de la mejor mamá y abuela del mundo… te extraño y te amo Nina, tu hija Susana', 
+						'translator_type': 'none', 
+						'protected': False, 
+						'verified': False, 
+						'followers_count': 143, 
+						'friends_count': 164, 
+						'listed_count': 0, 
+						'favourites_count': 2306, 
+						'statuses_count': 9216, 
+						'created_at': 'Tue Sep 14 16: 56: 04 +0000 2010', 
+						'utc_offset': None, 
+						'time_zone': None, 
+						'geo_enabled': False, 
+						'lang': None, 
+						'contributors_enabled': False, 
+						'is_translator': False, 
+						'profile_background_color': 'DBE9ED', 
+						'profile_background_image_url': 'http: //abs.twimg.com/images/themes/theme17/bg.gif', 
+						'profile_background_image_url_https': 'https: //abs.twimg.com/images/themes/theme17/bg.gif', 
+						'profile_background_tile': False, 
+						'profile_link_color': 'CC3366', 
+						'profile_sidebar_border_color': 'DBE9ED', 
+						'profile_sidebar_fill_color': 'E6F6F9', 
+						'profile_text_color': '333333', 
+						'profile_use_background_image': True, 
+						'profile_image_url': 'http: //pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', 
+						'profile_image_url_https': 'https: //pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg',
+						'default_profile': False, 
+						'default_profile_image': False, 
+						'following': None, 
+						'follow_request_sent': None, 
+						'notifications': None, 
+						'withheld_in_countries': []
+    }, 
+			'geo': None, 
+			'coordinates': None, 
+			'place': None, 
+			'contributors': None, 
+			'retweeted_status': {
+						'created_at': 'Sun Dec 19 16: 40: 57 +0000 2021', 
+						'id': 1472607899062964225, 
+						'id_str': '1472607899062964225', 
+						'text': 'Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar tax… https: //t.co/iN5yGfPajm', 
+						'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+						'truncated': True, 
+						'in_reply_to_status_id': None, 
+						'in_reply_to_status_id_str': None, 
+						'in_reply_to_user_id': None,
+						'in_reply_to_user_id_str': None, 
+						'in_reply_to_screen_name': None,
+						'user': {
+									'id': 52534878, 
+									'id_str': '52534878', 
+									'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', 
+									'screen_name'  : 'izkia', 
+									'location': 'Santiago Chile', 
+									'url': 'http: //www.colegiomedico.cl', 
+									'description': 'Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', 
+									'translator_type': 'none', 
+									'protected': False, 
+									'verified': True,
+									'followers_count': 436547, 
+									'friends_count': 2147, 
+									'listed_count': 331,
+									'favourites_count': 36100, 
+									'statuses_count': 30631, 
+									'created_at': 'Tue Jun 30 21: 57: 01 +0000 2009', 
+									'utc_offset': None, 
+									'time_zone': None, 
+									'geo_enabled': True, 
+									'lang': None, 
+									'contributors_enabled': False,
+									'is_translator': False, 
+									'profile_background_color': '9AE4E8',
+									'profile_background_image_url': 'http: //abs.twimg.com/images/themes/theme5/bg.gif', 
+									'profile_background_image_url_https': 'https: //abs.twimg.com/images/themes/theme5/bg.gif',
+									'profile_background_tile': False, 
+									'profile_link_color': '3B94D9', 
+									'profile_sidebar_border_color': 'FFFFFF', 
+									'profile_sidebar_fill_color': '40328F', 
+									'profile_text_color': 'F9FAED', 
+									'profile_use_background_image': True,
+									'profile_image_url': 'http: //pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 
+									'profile_image_url_https': 'https: //pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg',
+									'profile_banner_url': 'https: //pbs.twimg.com/profile_banners/52534878/1498965115',
+									'default_profile': False,
+									'default_profile_image': False,
+									'following': None,
+									'follow_request_sent': None, 
+									'notifications': None,
+									'withheld_in_countries': []
+        }, 
+						'geo': None,
+						'coordinates': None,
+						'place': None, 
+						'contributors': None,
+						'is_quote_status': False,
+						'extended_tweet': {
+											'full_text': 'Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar taxis, colectivos y autos compartidos para trasladar a votantes. Siempre con mascarillas y ventanas abajo. #ChileAyudaAChile #compartomiauto #DefendamosLaDemocracia',
+											'display_text_range': [
+                0,
+                276
+            ],
+	'entities': {
+											'hashtags': [
+                    {'text': 'ChileAyudaAChile', 'indices': [
+                            219,
+                            236
+                        ]
+                    },
+                    {'text': 'compartomiauto', 'indices': [
+                            237,
+                            252
+                        ]
+                    },
+                    {'text': 'DefendamosLaDemocracia', 'indices': [
+                            253,
+                            276
+                        ]
+                    }
+                ], 'urls': [], 'user_mentions': [
+                    {'screen_name': 'GobiernodeChile', 
+                        'name': 'Gobierno de Chile',
+                         'id': 42102939, 
+                         'id_str': '42102939', 
+                         'indices': [18,34]
+                    }
+                ], 'symbols': []
+            }
+        }, 'quote_count': 1196, 'reply_count': 4372, 'retweet_count': 11359, 'favorite_count': 21500, 'entities': {'hashtags': [], 'urls': [
+                {'url': 'https: //t.co/iN5yGfPajm',
+                     'expanded_url': 'https://twitter.com/i/web/status/1472607899062964225',
+                      'display_url': 'twitter.com/i/web/status/1…',
+                      'indices': [117, 140]}], 
+                      'user_mentions': [{'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [18, 34]}], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'es'}, 'is_quote_status': False, 'quote_count': 0, 'reply_count': 0, 'retweet_count': 0, 'favorite_count': 0, 'entities': {'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'izkia', 'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', 'id': 52534878, 'id_str': '52534878', 'indic  es': [3, 9]}, {'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [29, 45]}], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'es', 'timestamp_ms': '1639945697240'}, created_at=datetime.datetime(2021, 12, 19, 20, 28, 17), id=1472665108174098433, id_str='1472665108174098433', text='RT @izkia: Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar taxis, colectivo…', source='Twitter for Android', source_url='http://twitter.com/download/android', truncated=False, in_reply_to_status_id=None, in_reply_to_status_id_str=None, in_reply_to_user_id=None, in_reply_to_user_id_str=None, in_reply_to_screen_name=None, author=User(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, _json={'id': 190707904, 'id_str': '190707904', 'name': 'Susana Gutiérrez S.', 'screen_name': 'Sanandrea2010', 'location': 'CHILE', 'url': None, 'description': 'Hija de la mejor mamá y abuela del mundo… te extraño y te amo Nina, tu hija Susana', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 143, 'friends_count': 164, 'listed_count': 0, 'favourites_count': 2306, 'statuses_count': 9216, 'created_at': 'Tue Sep 14 16:56:04 +0000 2010', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'DBE9ED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme17/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme17/bg.gif', 'profile_background_tile': False, 'profile_link_color': 'CC3366', 'profile_sidebar_border_color': 'DBE9ED', 'profile_sidebar_fill_color': 'E6F6F9', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None, 'withheld_in_countries': []}, id=190707904, id_str='190707904', name='Susana Gutiérrez S.', screen_name='Sanandrea2010', location='CHILE', url=None, description='Hija de la mejor mamá y abuela del mundo… te extraño y te amo Nina, tu hija Susana', translator_type='none', protected=False, verified=False, followers_count=143, friends_count=164, listed_count=0, favourites_count=2306, statuses_count=9216, created_at=datetime.datetime(2010, 9, 14, 16, 56, 4), utc_offset=None, time_zone=None, geo_enabled=False, lang=None, contributors_enabled=False, is_translator=False, profile_background_color='DBE9ED', profile_background_image_url='http://abs.twimg.com/images/themes/theme17/bg.gif', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme17/bg.gif', profile_background_tile=False, profile_link_color='CC3366', profile_sidebar_border_color='DBE9ED', profile_sidebar_fill_color='E6F6F9', profile_text_color='333333', profile_use_background_image=True, profile_image_url='http://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', default_profile=False, default_profile_image=False, following=False, follow_request_sent=None, notifications=None, withheld_in_countries=[]), user=User(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, _json={'id': 190707904, 'id_str': '190707904', 'name': 'Susana Gutiérrez S.', 'screen_name': 'Sanandrea2010', 'location': 'CHILE', 'url': None, 'description': 'Hija de la mejor mamá y abuela del mundo… te extraño y te amo Nina, tu hija Susana', 'translator_type': 'none', 'protected': False, 'verified': False, 'followers_count': 143, 'friends_count': 164, 'listed_count': 0, 'favourites_count': 2306, 'statuses_count': 9216, 'created_at': 'Tue Sep 14 16:56:04 +0000 2010', 'utc_offset': None, 'time_zone': None, 'geo_enabled': False, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': 'DBE9ED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme17/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme17/bg.gif', 'profile_background_tile': False, 'profile_link_color': 'CC3366', 'profile_sidebar_border_color': 'DBE9ED', 'profile_sidebar_fill_color': 'E6F6F9', 'profile_text_color': '333333', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None, 'withheld_in_countries': []}, id=190707904, id_str='190707904', name='Susana Gutiérrez S.', screen_name='Sanandrea2010', location='CHILE', url=None, description='Hija de la mejor mamá y abuela del mundo… te extraño y te amo Nina, tu hija Susana', translator_type='none', protected=False, verified=False, followers_count=143, friends_count=164, listed_count=0, favourites_count=2306, statuses_count=9216, created_at=datetime.datetime(2010, 9, 14, 16, 56, 4), utc_offset=None, time_zone=None, geo_enabled=False, lang=None, contributors_enabled=False, is_translator=False, profile_background_color='DBE9ED', profile_background_image_url='http://abs.twimg.com/images/themes/theme17/bg.gif', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme17/bg.gif', profile_background_tile=False, profile_link_color='CC3366', profile_sidebar_border_color='DBE9ED', profile_sidebar_fill_color='E6F6F9', profile_text_color='333333', profile_use_background_image=True, profile_image_url='http://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1346304116365123586/t0CwE1Km_normal.jpg', default_profile=False, default_profile_image=False, following=False, follow_request_sent=None, notifications=None, withheld_in_countries=[]), geo=None, coordinates=None, place=None, contributors=None, retweeted_status=Status(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, _json={'created_at': 'Sun Dec 19 16:40:57 +0000 2021', 'id': 1472607899062964225, 'id_str': '1472607899062964225', 'text': 'Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar tax… https://t.co/iN5yGfPajm', 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'truncated': True, 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 52534878, 'id_str': '52534878', 'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', 'screen_name': 'izkia', 'location': 'Santia  go Chile', 'url': 'http://www.colegiomedico.cl', 'description': 'Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', 'translator_type': 'none', 'protected': False, 'verified': True, 'followers_count': 436547, 'friends_count': 2147, 'listed_count': 331, 'favourites_count': 36100, 'statuses_count': 30631, 'created_at': 'Tue Jun 30 21:57:01 +0000 2009', 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '9AE4E8', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_tile': False, 'profile_link_color': '3B94D9', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': '40328F', 'profile_text_color': 'F9FAED', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/52534878/1498965115', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None, 'withheld_in_countries': []}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'extended_tweet': {'full_text': 'Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar taxis, colectivos y autos compartidos para trasladar a votantes. Siempre con mascarillas y ventanas abajo. #ChileAyudaAChile #compartomiauto #DefendamosLaDemocracia', 'display_text_range': [0, 276], 'entities': {'hashtags': [{'text': 'ChileAyudaAChile', 'indices': [219, 236]}, {'text': 'compartomiauto', 'indices': [237, 252]}, {'text': 'DefendamosLaDemocracia', 'indices': [253, 276]}], 'urls': [], 'user_mentions': [{'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [18, 34]}], 'symbols': []}}, 'quote_count': 1196, 'reply_count': 4372, 'retweet_count': 11359, 'favorite_count': 21500, 'entities': {'hashtags': [], 'urls': [{'url': 'https://t.co/iN5yGfPajm', 'expanded_url': 'https://twitter.com/i/web/status/1472607899062964225', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [117, 140]}], 'user_mentions': [{'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [18, 34]}], 'symbols': []}, 'favorited': False, 'retweeted': False, 'filter_level': 'low', 'lang': 'es'}, created_at=datetime.datetime(2021, 12, 19, 16, 40, 57), id=1472607899062964225, id_str='1472607899062964225', text='Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar tax… https://t.co/iN5yGfPajm', source='Twitter for iPhone', source_url='http://twitter.com/download/iphone', truncated=True, in_reply_to_status_id=None, in_reply_to_status_id_str=None, in_reply_to_user_id=None, in_reply_to_user_id_str=None, in_reply_to_screen_name=None, author=User(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, _json={'id': 52534878, 'id_str': '52534878', 'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', 'screen_name': 'i  zkia', 'location': 'Santiago Chile', 'url': 'http://www.colegiomedico.cl', 'description': 'Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', 'translator_type': 'none', 'protected': False, 'verified': True, 'followers_count': 436547, 'friends_count': 2147, 'listed_count': 331, 'favourites_count': 36100, 'statuses_count': 30631, 'created_at': 'Tue Jun 30 21:57:01 +0000 2009', 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '9AE4E8', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_tile': False, 'profile_link_color': '3B94D9', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': '40328F', 'profile_text_color': 'F9FAED', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/52534878/1498965115', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None, 'withheld_in_countries': []}, id=52534878, id_str='52534878', name='Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', screen_name='
+izkia', location='Santiago Chile', url='http: //www.colegiomedico.cl', description='Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', translator_type='none', protected=False, verified=True, followers_count=436547, friends_count=2147, listed_count=331, favourites_count=36100, statuses_count=30631, created_at=datetime.datetime(2009, 6, 30, 21, 57, 1), utc_offset=None, time_zone=None, geo_enabled=True, lang=None, contributors_enabled=False, is_translator=False, profile_background_color='9AE4E8', profile_background_image_url='http://abs.twimg.com/images/themes/theme5/bg.gif', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme5/bg.gif', profile_background_tile=False, profile_link_color='3B94D9', profile_sidebar_border_color='FFFFFF', profile_sidebar_fill_color='40328F', profile_text_color='F9FAED', profile_use_background_image=True, profile_image_url='http://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/52534878/1498965115', default_profile=False, default_profile_image=False, following=False, follow_request_sent=None, notifications=None, withheld_in_countries=[]), user=User(_api=<tweepy.api.API object at 0x7ff6e51b0fd0>, _json={'id': 52534878, 'id_str': '52534878', 'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨� '', 'screen_name': 'izkia', 'location': 'Santiago Chile', 'url': 'http://www.colegiomedico.cl', 'description': 'Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', 'translator_type': 'none', 'protected': False, 'verified': True, 'followers_count': 436547, 'friends_count': 2147, 'listed_count': 331, 'favourites_count': 36100, 'statuses_count': 30631, 'created_at': 'Tue Jun 30 21:57:01 +0000 2009', 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'lang': None, 'contributors_enabled': False, 'is_translator': False, 'profile_background_color': '9AE4E8', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme5/bg.gif', 'profile_background_tile': False, 'profile_link_color': '3B94D9', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': '40328F', 'profile_text_color': 'F9FAED', 'profile_use_background_image': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/52534878/1498965115', 'default_profile': False, 'default_profile_image': False, 'following': None, 'follow_request_sent': None, 'notifications': None, 'withheld_in_countries': []}, id=52534878, id_str='52534878', name='Izkia Siches Pastén 🌱🌵🌲🌴�🇨🇱'', screen_name='izkia', location='Santiago Chile', url='http://www.colegiomedico.cl', descripti  on='Médica soñadora, Ariqueña, San Juanina, hija de Bello, mamá de Khala, @MedicosSinMarca y Ex-Presidenta @ColmedChile. #LaSaludEsUnDerecho #BoricPresidente', translator_type='none', protected=False, verified=True, followers_count=436547, friends_count=2147, listed_count=331, favourites_count=36100, statuses_count=30631, created_at=datetime.datetime(2009, 6, 30, 21, 57, 1), utc_offset=None, time_zone=None, geo_enabled=True, lang=None, contributors_enabled=False, is_translator=False, profile_background_color='9AE4E8', profile_background_image_url='http://abs.twimg.com/images/themes/theme5/bg.gif', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme5/bg.gif', profile_background_tile=False, profile_link_color='3B94D9', profile_sidebar_border_color='FFFFFF', profile_sidebar_fill_color='40328F', profile_text_color='F9FAED', profile_use_background_image=True, profile_image_url='http://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1338611340005560322/5KQ49EAF_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/52534878/1498965115', default_profile=False, default_profile_image=False, following=False, follow_request_sent=None, notifications=None, withheld_in_countries=[]), geo=None, coordinates=None, place=None, contributors=None, is_quote_status=False, extended_tweet={'full_text': 'Ante operación de @GobiernodeChile de limitar transporte público en favor de su candidato, llamamos a organizar taxis, colectivos y autos compartidos para trasladar a votantes. Siempre con mascarillas y ventanas abajo. #ChileAyudaAChile #compartomiauto #DefendamosLaDemocracia', 'display_text_range': [0, 276], 'entities': {'hashtags': [{'text': 'ChileAyudaAChile', 'indices': [219, 236]}, {'text': 'compartomiauto', 'indices': [237, 252]}, {'text': 'DefendamosLaDemocracia', 'indices': [253, 276]}], 'urls': [], 'user_mentions': [{'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [18, 34]}], 'symbols': []}}, quote_count=1196, reply_count=4372, retweet_count=11359, favorite_count=21500, entities={'hashtags': [], 'urls': [{'url': 'https://t.co/iN5yGfPajm', 'expanded_url': 'https://twitter.com/i/web/status/1472607899062964225', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [117, 140]}], 'user_mentions': [{'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [18, 34]}], 'symbols': []}, favorited=False, retweeted=False, filter_level='low', lang='es'), is_quote_status=False, quote_count=0, reply_count=0, retweet_count=0, favorite_count=0, entities={'hashtags': [], 'urls': [], 'user_mentions': [{'screen_name': 'izkia', 'name': 'Izkia Siches Pastén 🌱🌵🌲🌴🌳🇨🇱', 'id': 52534878, 'id_str': '52534878', 'indices'  : [3, 9]}, {'screen_name': 'GobiernodeChile', 'name': 'Gobierno de Chile', 'id': 42102939, 'id_str': '42102939', 'indices': [29, 45]}], 'symbols': []}, favorited=False, retweeted=False, filter_level='low', lang='es', timestamp_ms='1639945697240'
+// )
